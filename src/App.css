@@ -1,0 +1,40 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+
+
+.App{
+  background-color: #221f1f;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #221f1f;
+
+}
+
+.imm {
+  height: 240px;
+  margin-bottom: 2em;
+}
+
+
+.carousel-image {
+  margin-right: 5px;
+}
+
+
+
+.carousel-item {
+  height: 300px;
+  margin-right: 3em;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  bottom: 0;
+  
+}
+
+.carousel-caption h3 {
+  color: black;
+}
